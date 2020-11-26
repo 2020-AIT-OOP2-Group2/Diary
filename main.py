@@ -1,6 +1,7 @@
 from diaries.DiarySample import DiarySample
+from diaries.FukudaDiary import FukudaDiary
 
-diaries = [DiarySample(), ]
+diaries = [DiarySample(), FukudaDiary(), ]
 
 for d in diaries:
     print("---------------------------------")
