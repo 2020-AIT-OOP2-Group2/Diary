@@ -2,8 +2,7 @@ from diaries.DiarySample import DiarySample
 from diaries.TakataDiary import TakataDiary
 from diaries.shimuraDiaryNew import shimuraDiaryNew
 
-diaries = [DiarySample(),TakataDiary(), ]
-diaries = [DiarySample(), shimuraDiaryNew(),]
+diaries = [DiarySample(),TakataDiary(), shimuraDiaryNew(),]
 
 for d in diaries:
     print("---------------------------------")
