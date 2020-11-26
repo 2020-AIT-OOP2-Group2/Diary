@@ -1,13 +1,13 @@
 from diaries.AbstractDiary import AbstractDiary
 
 
-class shimuraDiaryNew(AbstractDiary):
+class YamamuraDiary(AbstractDiary):
 
     def get_date(self):
         return "2020-11-26"
 
     def get_summary(self):
-        return "資料がなくて焦ってる"
+        return "よろしくお願いします！！"
 
     def get_author(self):
-        return "Shimura"
+        return "Yamamura"
