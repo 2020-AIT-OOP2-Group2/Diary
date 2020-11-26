@@ -9,7 +9,7 @@ from diaries.YamamuraDiary import YamamuraDiary
 diaries = [
     DiarySample(),
     YamamuraDiary(),
-  　shimuraDiaryNew(),
+    shimuraDiaryNew(),
     FukudaDiary(),
     TakataDiary(),
     MasakiDiary(),
